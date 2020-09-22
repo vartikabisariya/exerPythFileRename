@@ -23,16 +23,23 @@
 ## Create a Jupyter Notebook .ipynb file
 
 * In Jupyter Notebook or VSCode navigate to your repository folder.
-  * Create a new Jupyter Notebook called OSTutorial.ipynb
+  * Create a new Jupyter Notebook called FileRenameTutorial.ipynb
 
 ## Watch Tutorial
 
 * Follow along with Python tutorial: File renaming (13 min): https://www.youtube.com/watch?v=ve2pmm5JqmI&list=PLG9A6ovzPqX6d9uWzx0UYN9pm0zzl5ofA&index=25&t=0s
-* Execute code examples in separate cells.
-  * Fill in these
-  * 
-  * 
-  
+* The presenter works with a set of files he already has. We don't have those files, but we're really only concerned with the names. He's working with mp4 files. It may be helpful if you create files with the same names (or at least files with names that follow the same pattern) as the files he has. You can easily create dummy .txt files with the same names in a folder before you start the tutorial. 
+  * Earth - Our solar system - #4.txt
+  * Jupiter - Our solar system - #6.txt
+  * Mars - Our solar system - #5.txt
+  * Mercury - Our solar system - #2.txt
+  * Neptune - Our solar system - #8.txt
+  * Pluto - Our solar system - #10.txt
+  * Saturn - Our solar system - #7.txt
+  * The Sun - Our solar system - #1.txt
+  * Uranus - Our solar system - #9.txt
+  * Venus - Our solar system - #3.txt
+* Execute code examples in separate cells.  
 * When you're done make sure you save your file.
 
 ## Push your updated file to your GitHub repository
